@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://riley-wilson.github.io/white/sitemap.xml
